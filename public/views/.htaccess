@@ -1,0 +1,6 @@
+<Files "update_stock.php">
+    Require all granted
+    <Limit POST>
+        Require all granted
+    </Limit>
+</Files>
